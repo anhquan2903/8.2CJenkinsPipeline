@@ -1,3 +1,4 @@
+   // Test automatic trigger - commit 1
 pipeline {
     agent any
 
