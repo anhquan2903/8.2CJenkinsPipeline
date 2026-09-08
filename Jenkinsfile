@@ -1,4 +1,4 @@
-   // Test automatic trigger - commit 2
+// trigger test 2
 pipeline {
     agent any
 
